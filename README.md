@@ -1,14 +1,10 @@
 # Hi, I'm Maciej
 
-<div align="center">
-
 [![](https://img.shields.io/badge/LinkedIn-mradzikowski-blue?style=flat-square)](https://www.linkedin.com/in/mradzikowski/)
 [![](https://img.shields.io/badge/Homepage-radzikowski.com.pl-brightgreen?style=flat-square)](https://radzikowski.com.pl)
 [![](https://img.shields.io/badge/Email-maciej%40radzikowski.com.pl-red?style=flat-square)](mailto:maciej@radzikowski.com.pl)
 
-</div>
-
-### My Tech Stack
+## My Tech Stack
 
 #### Backend
 
