@@ -35,20 +35,20 @@
 ![Elasticsearch](http://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=ffffff)
 ![Redis](http://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=ffffff)
 
-##### Env
+#### Env
 
 ![AWS](http://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=ffffff)
 ![Serverless](http://img.shields.io/badge/-Serverless-E2231A?style=flat-square&logo=serverless&logoColor=ffffff)
 &nbsp;
 ![Docker](http://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
 
-##### Miscellaneous
+#### Miscellaneous
 
 ![Apache Spark](http://img.shields.io/badge/-Apache_Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=ffffff)
 ![RabbitMQ](http://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=ffffff)
 ![Android](http://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=ffffff)
 
-##### Tooling
+#### Tooling
 
 ![Linux](http://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=ffffff)
 ![Git](http://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=ffffff)
