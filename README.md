@@ -11,6 +11,11 @@
 Recent posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Serverless Swagger UI for API Gateway](https://betterdev.blog/serverless-swagger-ui-for-api-gateway/)
+- [Command line arguments anatomy explained with examples](https://betterdev.blog/command-line-arguments-anatomy-explained/)
+- [Speed up everyday work with handy Git aliases](https://betterdev.blog/handy-git-aliases/)
+- [Simpler Git branch first push with no more errors](https://betterdev.blog/git-branch-first-push-without-errors/)
+- [Git fast-forward merge – why you should turn it off](https://betterdev.blog/turn-off-git-fast-forward-merge/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My Tech Stack
