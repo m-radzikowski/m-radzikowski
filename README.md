@@ -4,6 +4,15 @@
 [![](https://img.shields.io/badge/Homepage-radzikowski.com.pl-brightgreen?style=flat-square)](https://radzikowski.com.pl)
 [![](https://img.shields.io/badge/Email-maciej%40radzikowski.com.pl-red?style=flat-square)](mailto:maciej@radzikowski.com.pl)
 
+## My Blog
+
+[![](https://img.shields.io/badge/BetterDev-.blog-e91e63?style=flat-square&labelColor=1c40a5)](https://betterdev.blog/)
+
+Recent posts:
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## My Tech Stack
 
 #### Backend
