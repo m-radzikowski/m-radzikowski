@@ -8,7 +8,7 @@
 
 [![](https://img.shields.io/badge/BetterDev-.blog-e91e63?style=flat-square&labelColor=1c40a5)](https://betterdev.blog/)
 
-Recent posts:
+#### Recent posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Serverless Swagger UI for API Gateway](https://betterdev.blog/serverless-swagger-ui-for-api-gateway/)
