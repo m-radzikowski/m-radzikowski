@@ -11,11 +11,11 @@
 #### Recent posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Auto-generated website environment parameters](https://betterdev.blog/auto-generated-website-environment-parameters/)
 - [My AWS toolbox – tools, plugins and applications](https://betterdev.blog/my-aws-toolbox/)
 - [Serverless Swagger UI for API Gateway](https://betterdev.blog/serverless-swagger-ui-for-api-gateway/)
 - [Command line arguments anatomy explained with examples](https://betterdev.blog/command-line-arguments-anatomy-explained/)
 - [Speed up everyday work with handy Git aliases](https://betterdev.blog/handy-git-aliases/)
-- [Simpler Git branch first push with no more errors](https://betterdev.blog/git-branch-first-push-without-errors/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My Tech Stack
