@@ -11,11 +11,11 @@
 #### Recent posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pin exact dependency versions](https://betterdev.blog/pin-exact-dependency-versions/)
 - [Three ways to create Amazon Athena tables](https://betterdev.blog/creating-athena-tables/)
 - [Minimal safe Bash script template](https://betterdev.blog/minimal-safe-bash-script-template/)
 - [Auto-generated website environment parameters](https://betterdev.blog/auto-generated-website-environment-parameters/)
 - [My AWS toolbox – tools, plugins and applications](https://betterdev.blog/my-aws-toolbox/)
-- [Serverless Swagger UI for API Gateway](https://betterdev.blog/serverless-swagger-ui-for-api-gateway/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My Tech Stack
