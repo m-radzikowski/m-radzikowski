@@ -11,11 +11,11 @@
 #### Recent posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS Lambda logging best practices](https://betterdev.blog/aws-lambda-logging-best-practices/)
 - [Things I Found Interesting #1](https://betterdev.blog/tifi-1/)
 - [Pin exact dependency versions](https://betterdev.blog/pin-exact-dependency-versions/)
 - [Three ways to create Amazon Athena tables](https://betterdev.blog/creating-athena-tables/)
 - [Minimal safe Bash script template](https://betterdev.blog/minimal-safe-bash-script-template/)
-- [Auto-generated website environment parameters](https://betterdev.blog/auto-generated-website-environment-parameters/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My Tech Stack
