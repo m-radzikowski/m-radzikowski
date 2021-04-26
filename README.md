@@ -11,11 +11,11 @@
 #### Recent posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS Lambda performance optimization](https://betterdev.blog/aws-lambda-performance-optimization/)
 - [Things I Found Interesting #2](https://betterdev.blog/tifi-2/)
 - [AWS JavaScript SDK v3 – usage, problems, testing](https://betterdev.blog/aws-javascript-sdk-v3-usage-problems-testing/)
 - [AWS Lambda logging best practices](https://betterdev.blog/aws-lambda-logging-best-practices/)
 - [Things I Found Interesting #1](https://betterdev.blog/tifi-1/)
-- [Pin exact dependency versions](https://betterdev.blog/pin-exact-dependency-versions/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My Tech Stack
