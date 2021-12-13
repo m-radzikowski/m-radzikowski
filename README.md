@@ -11,11 +11,11 @@
 #### Recent posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Things I Found Interesting #4](https://betterdev.blog/tifi-4/)
 - [Headless CMS with Gatsby on AWS for $0.00 per month](https://betterdev.blog/gatsby-website-with-headless-cms-on-aws/)
 - [Choosing between SQS, SNS, Kinesis, and EventBridge](https://betterdev.blog/aws-messaging-services-sqs-sns-kinesis-eventbridge/)
 - [Things I Found Interesting #3](https://betterdev.blog/tifi-3/)
 - [Don’t help others (immediately)](https://betterdev.blog/dont-help-others-immediately/)
-- [AWS Lambda performance optimization](https://betterdev.blog/aws-lambda-performance-optimization/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My Tech Stack
