@@ -11,11 +11,11 @@
 #### Recent posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Things I Found Interesting #5](https://betterdev.blog/tifi-5/)
 - [Decision Tree: choose the right AWS messaging service](https://betterdev.blog/decision-tree-sqs-sns-kinesis-eventbridge/)
 - [Personal backup to Amazon S3 – cheap and easy](https://betterdev.blog/personal-backup-to-amazon-s3/)
 - [6 Common Pitfalls of AWS Lambda with Kinesis Trigger](https://betterdev.blog/aws-lambda-kinesis-trigger-pitfalls/)
 - [Things I Found Interesting #4](https://betterdev.blog/tifi-4/)
-- [Headless CMS with Gatsby on AWS for $0.00 per month](https://betterdev.blog/gatsby-website-with-headless-cms-on-aws/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My Tech Stack
