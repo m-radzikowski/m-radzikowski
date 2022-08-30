@@ -11,11 +11,11 @@
 #### Recent posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Least deployment privilege with CDK Bootstrap](https://betterdev.blog/cdk-bootstrap-least-deployment-privilege/)
 - [The AWS CDK, Or Why I Stopped Being a CDK Skeptic](https://betterdev.blog/aws-cdk-pros-and-cons/)
 - [Things I Found Interesting #5](https://betterdev.blog/tifi-5/)
 - [Decision Tree: choose the right AWS messaging service](https://betterdev.blog/decision-tree-sqs-sns-kinesis-eventbridge/)
 - [Personal backup to Amazon S3 – cheap and easy](https://betterdev.blog/personal-backup-to-amazon-s3/)
-- [6 Common Pitfalls of AWS Lambda with Kinesis Trigger](https://betterdev.blog/aws-lambda-kinesis-trigger-pitfalls/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My Tech Stack
