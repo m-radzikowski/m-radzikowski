@@ -11,11 +11,11 @@
 #### Recent posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to pass AWS Certification exams](https://betterdev.blog/how-to-pass-aws-certification-exams/)
 - [Running Serverless ML on AWS Lambda](https://betterdev.blog/serverless-ml-on-aws-lambda/)
 - [Least deployment privilege with CDK Bootstrap](https://betterdev.blog/cdk-bootstrap-least-deployment-privilege/)
 - [The AWS CDK, Or Why I Stopped Being a CDK Skeptic](https://betterdev.blog/aws-cdk-pros-and-cons/)
 - [Things I Found Interesting #5](https://betterdev.blog/tifi-5/)
-- [Decision Tree: choose the right AWS messaging service](https://betterdev.blog/decision-tree-sqs-sns-kinesis-eventbridge/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My Tech Stack
