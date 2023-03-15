@@ -11,11 +11,11 @@
 #### Recent posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS Lambda – Node.js vs. Python for serverless](https://betterdev.blog/aws-lambda-runtime-nodejs-python/)
 - [Understanding Logical IDs in CDK and CloudFormation](https://betterdev.blog/understanding-logical-ids-in-cdk-and-cloudformation/)
 - [Top 12 Serverless Announcements from re:Invent 2022](https://betterdev.blog/top-12-serverless-announcements-reinvent-2022/)
 - [How to pass AWS Certification exams](https://betterdev.blog/how-to-pass-aws-certification-exams/)
 - [Running Serverless ML on AWS Lambda](https://betterdev.blog/serverless-ml-on-aws-lambda/)
-- [Least deployment privilege with CDK Bootstrap](https://betterdev.blog/cdk-bootstrap-least-deployment-privilege/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My Tech Stack
