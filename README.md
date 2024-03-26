@@ -11,11 +11,11 @@
 #### Recent posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Next-Level Integration Testing with ServerlessSpy](https://betterdev.blog/integration-testing-with-serverless-spy/)
 - [25 Good and Bad Serverless (and other) Announcements from re:Invent 2023](https://betterdev.blog/25-good-and-bad-serverless-announcements-reinvent-2023/)
 - [Dynamic Content with Lambda Response Streaming](https://betterdev.blog/lambda-response-streaming-dynamic-content/)
 - [Forcing Lambda Response Streaming to Flush Content](https://betterdev.blog/lambda-response-streaming-flush-content/)
 - [Building a CDK Construct Library: thoughts and tips](https://betterdev.blog/building-cdk-construct-library/)
-- [AWS Lambda – Node.js vs. Python for serverless](https://betterdev.blog/aws-lambda-runtime-nodejs-python/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My Tech Stack
